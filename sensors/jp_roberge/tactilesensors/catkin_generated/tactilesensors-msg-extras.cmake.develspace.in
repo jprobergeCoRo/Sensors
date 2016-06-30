@@ -1,0 +1,2 @@
+set(tactilesensors_MESSAGE_FILES "/home/jproberge/catkin_ws/src/tactilesensors/msg/TactileData.msg")
+set(tactilesensors_SERVICE_FILES "")
